@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  TetrisGame_zjy.cpp
+C:\Users\ASUS\Desktop\5 сем\курсач\курсовая\игровое приложение\TetrisGame_zjy\TetrisGame_zjy.cpp(135,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\5 сем\курсач\курсовая\игровое приложение\TetrisGame_zjy\TetrisGame_zjy.cpp(191,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ASUS\Desktop\5 сем\курсач\курсовая\игровое приложение\TetrisGame_zjy\TetrisGame_zjy.cpp(238,40): warning C4101: cyClient: неиспользованная локальная переменная
+C:\Users\ASUS\Desktop\5 сем\курсач\курсовая\игровое приложение\TetrisGame_zjy\TetrisGame_zjy.cpp(238,50): warning C4101: iMaxWidth: неиспользованная локальная переменная
+C:\Users\ASUS\Desktop\5 сем\курсач\курсовая\игровое приложение\TetrisGame_zjy\TetrisGame_zjy.cpp(238,30): warning C4101: cxClient: неиспользованная локальная переменная
+  TetrisGame_zjy.vcxproj -> C:\Users\ASUS\Desktop\5 сем\курсач\курсовая\игровое приложение\x64\Debug\TetrisGame_zjy.exe
